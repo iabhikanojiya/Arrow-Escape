@@ -1,0 +1,6 @@
+# robots.txt for Arrow Escape — https://arrowescapeweb.vercel.app
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://arrowescapeweb.vercel.app/sitemap.xml
